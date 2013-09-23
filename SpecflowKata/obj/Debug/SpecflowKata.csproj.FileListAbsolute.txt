@@ -1,0 +1,13 @@
+G:\Projects\SpecflowKata\SpecflowKata\obj\Debug\SpecflowKata.csprojResolveAssemblyReference.cache
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\SpecflowKata.dll.config
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\SpecflowKata.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\SpecflowKata.pdb
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\NBehave.Spec.NUnit.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\nunit.core.interfaces.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\nunit.framework.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\Rhino.Mocks.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\TechTalk.SpecFlow.dll
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\nunit.framework.xml
+G:\Projects\SpecflowKata\SpecflowKata\bin\Debug\Rhino.Mocks.xml
+G:\Projects\SpecflowKata\SpecflowKata\obj\Debug\SpecflowKata.dll
+G:\Projects\SpecflowKata\SpecflowKata\obj\Debug\SpecflowKata.pdb
